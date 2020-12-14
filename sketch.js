@@ -34,10 +34,10 @@ function draw() {
   background(230);
  
   
- 
+  paperObject.display();
   groundObject.display();
   dustbinObj.display();
-  paperObject.display();
+  
   
   
  
